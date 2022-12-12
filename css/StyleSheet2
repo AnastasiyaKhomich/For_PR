@@ -39,7 +39,6 @@ body {
     line-height: 27px
 }
 
-
 .wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
